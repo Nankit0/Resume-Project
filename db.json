@@ -1,0 +1,318 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nankit038@gmail.com",
+      "password": "Priyansh@123",
+      "email": "nankit038@gmail.com",
+      "userRole": "admin",
+      "isActive": true,
+      "name": "Ankit Nagar"
+    },
+    {
+      "id": 1776238282865,
+      "username": "neeraj",
+      "name": "Neeraj Samad",
+      "email": "neeraj@yopmail.com",
+      "userRole": "user",
+      "isActive": false,
+      "password": "admin123"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "userId": 1,
+      "personal": {
+        "name": "Ankit",
+        "email": "nankit038@gmail.com",
+        "phone": "+91 999-019-4803",
+        "linkedin": "linkedin.com/in/ankit-nagar-2209",
+        "portfolio": "",
+        "location": "India"
+      },
+      "accentColor": "#7C3AED",
+      "about": "Dynamic and detail-oriented Full Stack Developer with over 5+ years of experience in software development, specializing in building scalable web applications using modern technologies. Proficient in both front-end and back-end development, with a strong foundation in Angular, Node.js, and Express. Adept at collaborating with cross-functional teams to deliver high-quality software solutions that meet client needs. Committed to continuous learning and staying updated with industry trends.",
+      "education": [
+        {
+          "id": "edu1",
+          "degree": "Master's in Computer Application",
+          "institution": "Manipal University, Jaipur",
+          "startYear": "Aug 2022",
+          "endYear": "Dec 2024",
+          "description": "Gained a strong foundation in Relational Database Management Systems (RDBMS) with a focus on SQL. Developed core competencies in web development technologies, including HTML, CSS, JavaScript, and Node.js. Worked on academic projects that reinforced hands-on learning and real-world application of web development principles."
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp1",
+          "role": "Software Engineer",
+          "company": "Bellurbis Technologies Pvt Ltd",
+          "startDate": "Jul 2022",
+          "endDate": "Present",
+          "bullets": [
+            "Developed and maintained web applications using Angular for front-end and Node.js for back-end, enhancing user experience and application performance.",
+            "Collaborated with product managers and designers to define project requirements and deliver solutions that align with business objectives.",
+            "Implemented RESTful APIs and integrated third-party services, improving application functionality and user engagement.",
+            "Conducted code reviews and provided mentorship to junior developers, fostering a culture of continuous improvement and knowledge sharing."
+          ]
+        },
+        {
+          "id": "exp2",
+          "role": "Assistant Software Engineer",
+          "company": "Speqto Technologies Pvt Ltd",
+          "startDate": "Jan 2021",
+          "endDate": "Jul 2022",
+          "bullets": [
+            "Assisted in the development of web applications, focusing on front-end features using Angular and back-end services with Node.js.",
+            "Participated in the full software development lifecycle, from requirements gathering to deployment and maintenance.",
+            "Contributed to database design and management using SQL and Sequelize ORM, ensuring data integrity and performance optimization."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "proj1",
+          "name": "SpinEv (B2B / EV Domain)",
+          "techStack": "Angular, Node.js, Express, Sequelize ORM, MySQL",
+          "role": "Full Stack Developer",
+          "description": "A B2B web platform developed for Exicom, which supplies EV charging stations to partners like Indian Oil. The system manages station policies, charger locations, charging guns, and pricing structures.",
+          "impact": "Improved operational efficiency and centralized management of EV infrastructure for partner companies."
+        },
+        {
+          "id": "proj2",
+          "name": "Telemed (Medical Domain)",
+          "techStack": "Angular, JavaScript, HTML, CSS",
+          "role": "Frontend Developer",
+          "description": "An Indian government project currently active in Telangana. Patients visit PHC studios, register their symptoms, and consult doctors through live video sessions. Doctors can provide prescriptions digitally.",
+          "impact": "Increased access to healthcare in rural areas and reduced the need for physical consultations."
+        },
+        {
+          "id": "proj3",
+          "name": "myKaarma (Automobile Domain)",
+          "techStack": "Angular, JavaScript, HTML, CSS",
+          "role": "Frontend Developer",
+          "description": "A USA-based solution for car dealerships to provide service scheduling links to customers. Users can register their vehicles and book services online.",
+          "impact": "Enhanced user engagement and simplified vehicle service scheduling for customers."
+        },
+        {
+          "id": "proj4",
+          "name": "HRM (Human Resource Management System)",
+          "techStack": "Angular, Node.js, MySQL",
+          "role": "Full Stack Developer",
+          "description": "An internal web application for managing employee data, attendance, project allocation, leave records, and salary slips.",
+          "impact": "Streamlined HR operations, resulting in efficient employee management and reduced manual work."
+        },
+        {
+          "id": "proj5",
+          "name": "blocEdu (Educational Domain)",
+          "techStack": "Angular, JavaScript, HTML, CSS, NGPrime",
+          "role": "Front-End Developer",
+          "description": "A web-based educational platform supporting three user roles – student, teacher, and admin. Teachers can upload and manage courses, students can browse and purchase courses, and admins oversee platform operations.",
+          "impact": "Enabled seamless course creation and purchase flow, improving accessibility to digital education content."
+        }
+      ],
+      "skills": {
+        "Languages": "JavaScript, TypeScript, Java, HTML, CSS",
+        "Frameworks": "Angular, Express, Node.js",
+        "Database": "SQL, MySQL",
+        "Version Control": "Git & GitHub, GitLab",
+        "Others": "Cloudinary, Docker, Sequelize ORM, Bootstrap, Angular Material"
+      },
+      "certifications": [
+        "Angular (Intermediate Level) – Great Learning",
+        "JavaScript Certificate – SoloLearn"
+      ]
+    },
+    {
+      "personal": {
+        "name": "Akash Nagar",
+        "email": "nagarakki007@gmail.com",
+        "phone": "+91 9811275162",
+        "linkedin": "",
+        "portfolio": "",
+        "location": "VPO Bhainsrawali, Faridabad, Haryana, 121101"
+      },
+      "accentColor": "#7C3AED",
+      "about": "To obtain a computer operator position where I can utilize my foundational computer skills and eagerness to learn, contributing to the efficient management of data and operations while further developing my technical abilities.",
+      "education": [
+        {
+          "id": "edu1",
+          "degree": "Bachelor of Science(Computer)",
+          "institution": "Maharashi Dayanand University, Rohtak",
+          "startYear": "",
+          "endYear": "",
+          "description": ""
+        },
+        {
+          "id": "edu2",
+          "degree": "Senior Secondary school",
+          "institution": "Saraswati Sishu Sadan School",
+          "startYear": "",
+          "endYear": "",
+          "description": ""
+        },
+        {
+          "id": "edu3",
+          "degree": "Secondary school",
+          "institution": "Saraswati Sishu Sadan School",
+          "startYear": "",
+          "endYear": "",
+          "description": ""
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp1",
+          "role": "Recovery Agent",
+          "company": "Bajaj Finance",
+          "startDate": "",
+          "endDate": "",
+          "bullets": [
+            "Ensuring accurate data entry and efficient processing of information"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "proj1",
+          "name": "Upwork and youtube clone",
+          "techStack": "",
+          "role": "Website Developer",
+          "description": "Developed a responsive website replicating key aspects of the youtube user interface, demonstrating proficiency in front-end development.",
+          "impact": ""
+        }
+      ],
+      "skills": {
+        "Languages": "",
+        "Frameworks": "",
+        "Databases": "",
+        "Tools": "Ms Word, Ms Excel",
+        "Soft Skills": "Problem Solving",
+        "Other": "Basic knowledge of Computer, SEO, Website Development"
+      },
+      "certifications": [
+        ""
+      ],
+      "interests": [
+        "Playing Cricket",
+        "Playing outside sports",
+        "Reading books",
+        "Listning books"
+      ],
+      "personalDetails": [
+        "Date of birth - 12/02/1998",
+        "Gender - Male",
+        "Marital Status - married",
+        "Nationality - Indian",
+        "Language - Hindi, English",
+        "Father's Name – Mr Gyanender Singh"
+      ],
+      "sectionTitles": {
+        "personalInfo": "Personal Information 1"
+      },
+      "userId": 1,
+      "id": 1776766790262,
+      "ownerName": "Ankit Nagar",
+      "ownerUsername": "nankit038@gmail.com",
+      "ownerRole": "admin"
+    },
+    {
+      "personal": {
+        "name": "Ajay Saini",
+        "email": "ajsaini9582@gmail.com",
+        "phone": "8512000987",
+        "linkedin": "linkedin.com/in/ajay-saini",
+        "portfolio": "github.com/AjaySaini9582",
+        "location": "Faridabad, India"
+      },
+      "accentColor": "#7C3AED",
+      "about": "Results-driven Backend Engineer with 1.6+ years of experience in designing and developing scalable systems using ASP.NET Core and Microservices Architecture. Proven expertise in building secure REST APIs, implementing JWT-based authentication and authorization, and optimizing data storage using SQL Server. Skilled in utilizing Agile methodologies, collaborating with cross-functional teams, and leveraging tools like Git, Docker, and Swagger to deliver high-quality software solutions. Proficient in programming languages such as C#, Java, and JavaScript, with a strong understanding of frameworks, databases, and caching mechanisms including Angular, React, PostgreSQL, Redis, and SQL Server.",
+      "education": [
+        {
+          "id": "edu1",
+          "degree": "B.Tech in Computer Science",
+          "institution": "J.C. Bose University of Science and Technology, YMCA",
+          "startYear": "2019",
+          "endYear": "2023",
+          "description": "CGPA: 8.2/10"
+        },
+        {
+          "id": "edu2",
+          "degree": "Senior Secondary, Science Stream",
+          "institution": "Gov. Model Sr. Sec. School, Uncha Gaon",
+          "startYear": "2018",
+          "endYear": "2019",
+          "description": "78%"
+        }
+      ],
+      "experience": [
+        {
+          "id": "exp1",
+          "role": "Associate Software Developer",
+          "company": "Bellurbis Technologies Pvt Ltd",
+          "startDate": "Aug 2024",
+          "endDate": "Present",
+          "bullets": [
+            "Designed scalable APIs",
+            "Built JWT auth",
+            "Delivered features 20% faster",
+            "Improved UX 30%"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "proj1",
+          "name": "Cinemate - Movie Info App",
+          "techStack": "React, Tailwind CSS, TMDB API",
+          "role": "Developer",
+          "description": "Built a responsive UI and integrated external APIs to enable real-time movie search and dynamic content rendering.",
+          "impact": ""
+        },
+        {
+          "id": "proj2",
+          "name": "Taskmate App",
+          "techStack": "React, JavaScript, Bootstrap",
+          "role": "Developer",
+          "description": "Developed a full CRUD-based task management system with persistent data storage using local storage.",
+          "impact": ""
+        },
+        {
+          "id": "proj3",
+          "name": "Weather App",
+          "techStack": "HTML, CSS, JavaScript, OpenWeather API",
+          "role": "Developer",
+          "description": "Integrated third-party API to fetch and display real-time weather data dynamically based on user input.",
+          "impact": ""
+        }
+      ],
+      "skills": {
+        "Languages": "C#, Java, JavaScript",
+        "Frameworks": "ASP.NET Core, Angular, React",
+        "Databases": "PostgreSQL, SQL Server",
+        "Caching": "Redis",
+        "Authentication": "JWT",
+        "Tools": "Git, Docker, Swagger, Postman, SonarQube, Jira"
+      },
+      "certifications": [
+        "LeetCode: Completed 50 Days, 100 Days, and May Challenges (2024)",
+        "NPTEL: Problem Solving in C, OS Fundamentals, Principles of Management",
+        "Sololearn: C and HTML Fundamentals Certification"
+      ],
+      "interests": [],
+      "personalDetails": [],
+      "userId": 1,
+      "skillRatings": {
+        "Languages": 5,
+        "Frameworks": 5,
+        "Databases": 5,
+        "Caching": 5,
+        "Authentication": 5,
+        "Tools": 5
+      },
+      "id": 1776768646947
+    }
+  ],
+  "jdFetches": []
+}
